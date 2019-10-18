@@ -1,4 +1,4 @@
-# DataScience
+# Data Science
 Practical Hands-on Data Scientist Projects:
 
 Logistic Regression:
