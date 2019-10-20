@@ -1,6 +1,10 @@
 # Data Science
 Practical Hands-on Data Scientist Projects:
 
+Linear Regression:
+
+Fuel Consumption and car emission. 
+
 Logistic Regression:
 
 Predict the survival rates of the Titanic based on the passenger features.
