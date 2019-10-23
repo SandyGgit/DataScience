@@ -5,6 +5,7 @@ Fuel Consumption and car emission.
 
 # Logistic Regression:
 Predict the survival rates of the Titanic based on the passenger features.
+
 Predict customer behavior towards targeted marketing ads on FB.
 
 # Support Vector Machine (SVM):
