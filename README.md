@@ -12,6 +12,7 @@ Predict cancer diagnosis benign or malignant based on several observations/featu
 
 # Naive Bayes: 
 Spam Classifier 
+
 Credit Card Fraud Detection
 
 
