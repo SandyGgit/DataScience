@@ -1,5 +1,4 @@
-# Data Science
-Practical Hands-on Data Scientist Projects:
+# Data Science --- Practical Hands-on Data Scientist Projects:
 
 # Linear Regression:
 Fuel Consumption and car emission. 
@@ -13,6 +12,6 @@ Predict cancer diagnosis benign or malignant based on several observations/featu
 
 # Naive Bayes: 
 Spam Classifier 
-
+Credit Card Fraud Detection
 
 
