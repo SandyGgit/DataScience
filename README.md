@@ -1,4 +1,6 @@
-# Data Science --- Practical Hands-on Data Scientist Projects:
+# Data Science --- Practical Hands-on Data Scientist Projects (Machinge Learning and Neural Network/DL):
+
+# MACHINE LEARNING Projects:
 
 # Linear Regression:
 Fuel Consumption and car emission. 
@@ -11,10 +13,24 @@ Predict customer behavior towards targeted marketing ads on FB.
 # Support Vector Machine (SVM):
 Predict cancer diagnosis benign or malignant based on several observations/features.
 
+Predict Bank clients eligibility to retire given their features such as age and 401K savings
+
+# K-Nearest Neighbour
+Iris plant Classification
+
+T-Shirt size Classification
+
+# Decision Trees and Random Forest
+Kyphosis Disease Classification
+
+Perform sentiment analysis and analyze custoomer reviews for Amazon Alexa products
+
 # Naive Bayes: 
 Spam Classifier 
 
 Credit Card Fraud Detection
+
+# NEURAL NETWORK and DEEP LEARNING Projects:
 
 # Logistic Regression with a Neural Network mindset
 Build a logistic regression classifier to recognize cats. 
