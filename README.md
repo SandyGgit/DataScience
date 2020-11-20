@@ -5,6 +5,10 @@
 # Linear Regression:
 Fuel Consumption and car emission. 
 
+# Multiple Linear Regression
+Build a linear regression model in Python using the scikit-learn package.
+Predict the calories spent during cycling around the neighborhood
+
 # Logistic Regression:
 Predict the survival rates of the Titanic based on the passenger features.
 
