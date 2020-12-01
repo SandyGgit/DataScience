@@ -5,9 +5,9 @@
 # Linear Regression:
 Fuel Consumption and car emission. 
 
-# Multiple Linear Regression
-Build a linear regression model in Python using the scikit-learn package.
-Predict the calories spent during cycling around the neighborhood
+# Cycling project around my neighborhood
+Multiple Linear Regression - Build a linear regression model in Python using the scikit-learn package. Predict the calories spent during cycling around the neighborhood
+Logistic Regression - Perform Logistic Regression and predict cycling goal reached
 
 # Logistic Regression:
 Predict the survival rates of the Titanic based on the passenger features.
